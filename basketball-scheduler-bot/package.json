@@ -1,0 +1,16 @@
+{
+  "name": "basketball-scheduler-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "ur mama",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "telegraf": "^4.0.1"
+  }
+}

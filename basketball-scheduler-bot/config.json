@@ -1,0 +1,9 @@
+{
+    "rest": {
+        "fortune": "http://yerkee.com/api/fortune",
+        "nba_root": "https://api-nba-v1.p.rapidapi.com",
+        "nba_games_per_date": "/games/date/"
+    },
+    
+    "bot_token": "1507106781:AAHn6kBFYaeZIvBEF7QEbpf9obcHgAUHjMo"
+}

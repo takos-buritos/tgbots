@@ -1,0 +1,397 @@
+{
+    "api": {
+        "status": 200,
+        "message": "GET games/date/2021-01-18",
+        "results": 10,
+        "filters": [
+            "seasonYear",
+            "league",
+            "gameId",
+            "teamId",
+            "date",
+            "live"
+        ],
+        "games": [
+            {
+                "seasonYear": "2020",
+                "league": "standard",
+                "gameId": "7707",
+                "startTimeUTC": "2021-01-18T00:00:00.000Z",
+                "endTimeUTC": "",
+                "arena": "Chesapeake Energy Arena",
+                "city": "Oklahoma City",
+                "country": "USA",
+                "clock": "",
+                "gameDuration": ":",
+                "currentPeriod": "0/4",
+                "halftime": "0",
+                "EndOfPeriod": "0",
+                "seasonStage": "2",
+                "statusShortGame": "1",
+                "statusGame": "Scheduled",
+                "vTeam": {
+                    "teamId": "27",
+                    "shortName": "PHI",
+                    "fullName": "Philadelphia 76ers",
+                    "nickName": "76ers",
+                    "logo": "https://upload.wikimedia.org/wikipedia/fr/4/48/76ers_2016.png",
+                    "score": {
+                        "points": ""
+                    }
+                },
+                "hTeam": {
+                    "teamId": "25",
+                    "shortName": "OKC",
+                    "fullName": "Oklahoma City Thunder",
+                    "nickName": "Thunder",
+                    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Thunder_d%27Oklahoma_City_logo.svg/1200px-Thunder_d%27Oklahoma_City_logo.svg.png",
+                    "score": {
+                        "points": ""
+                    }
+                }
+            },
+            {
+                "seasonYear": "2020",
+                "league": "standard",
+                "gameId": "7708",
+                "startTimeUTC": "2021-01-18T01:00:00.000Z",
+                "endTimeUTC": "2021-01-18T03:28:00.000Z",
+                "arena": "Ball Arena",
+                "city": "Denver",
+                "country": "USA",
+                "clock": "",
+                "gameDuration": "2:18",
+                "currentPeriod": "4/4",
+                "halftime": "0",
+                "EndOfPeriod": "0",
+                "seasonStage": "2",
+                "statusShortGame": "3",
+                "statusGame": "Finished",
+                "vTeam": {
+                    "teamId": "40",
+                    "shortName": "UTA",
+                    "fullName": "Utah Jazz",
+                    "nickName": "Jazz",
+                    "logo": "https://upload.wikimedia.org/wikipedia/fr/3/3b/Jazz_de_l%27Utah_logo.png",
+                    "score": {
+                        "points": "109"
+                    }
+                },
+                "hTeam": {
+                    "teamId": "9",
+                    "shortName": "DEN",
+                    "fullName": "Denver Nuggets",
+                    "nickName": "Nuggets",
+                    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/35/Nuggets_de_Denver_2018.png/180px-Nuggets_de_Denver_2018.png",
+                    "score": {
+                        "points": "105"
+                    }
+                }
+            },
+            {
+                "seasonYear": "2020",
+                "league": "standard",
+                "gameId": "7709",
+                "startTimeUTC": "2021-01-18T02:00:00.000Z",
+                "endTimeUTC": "2021-01-18T04:40:00.000Z",
+                "arena": "Golden 1 Center",
+                "city": "Sacramento",
+                "country": "USA",
+                "clock": "",
+                "gameDuration": "2:23",
+                "currentPeriod": "4/4",
+                "halftime": "0",
+                "EndOfPeriod": "0",
+                "seasonStage": "2",
+                "statusShortGame": "3",
+                "statusGame": "Finished",
+                "vTeam": {
+                    "teamId": "23",
+                    "shortName": "NOP",
+                    "fullName": "New Orleans Pelicans",
+                    "nickName": "Pelicans",
+                    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/21/New_Orleans_Pelicans.png/200px-New_Orleans_Pelicans.png",
+                    "score": {
+                        "points": "128"
+                    }
+                },
+                "hTeam": {
+                    "teamId": "30",
+                    "shortName": "SAC",
+                    "fullName": "Sacramento Kings",
+                    "nickName": "Kings",
+                    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/95/Kings_de_Sacramento_logo.svg/1200px-Kings_de_Sacramento_logo.svg.png",
+                    "score": {
+                        "points": "123"
+                    }
+                }
+            },
+            {
+                "seasonYear": "2020",
+                "league": "standard",
+                "gameId": "7710",
+                "startTimeUTC": "2021-01-18T03:00:00.000Z",
+                "endTimeUTC": "2021-01-18T05:22:00.000Z",
+                "arena": "Staples Center",
+                "city": "Los Angeles",
+                "country": "USA",
+                "clock": "",
+                "gameDuration": "2:07",
+                "currentPeriod": "4/4",
+                "halftime": "0",
+                "EndOfPeriod": "0",
+                "seasonStage": "2",
+                "statusShortGame": "3",
+                "statusGame": "Finished",
+                "vTeam": {
+                    "teamId": "15",
+                    "shortName": "IND",
+                    "fullName": "Indiana Pacers",
+                    "nickName": "Pacers",
+                    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cf/Pacers_de_l%27Indiana_logo.svg/1180px-Pacers_de_l%27Indiana_logo.svg.png",
+                    "score": {
+                        "points": "96"
+                    }
+                },
+                "hTeam": {
+                    "teamId": "16",
+                    "shortName": "LAC",
+                    "fullName": "LA Clippers",
+                    "nickName": "Clippers",
+                    "logo": "https://upload.wikimedia.org/wikipedia/fr/d/d6/Los_Angeles_Clippers_logo_2010.png",
+                    "score": {
+                        "points": "129"
+                    }
+                }
+            },
+            {
+                "seasonYear": "2020",
+                "league": "standard",
+                "gameId": "7711",
+                "startTimeUTC": "2021-01-18T17:00:00.000Z",
+                "endTimeUTC": "",
+                "arena": "Madison Square Garden",
+                "city": "New York",
+                "country": "USA",
+                "clock": "",
+                "gameDuration": ":",
+                "currentPeriod": "0/4",
+                "halftime": "0",
+                "EndOfPeriod": "0",
+                "seasonStage": "2",
+                "statusShortGame": "1",
+                "statusGame": "Scheduled",
+                "vTeam": {
+                    "teamId": "26",
+                    "shortName": "ORL",
+                    "fullName": "Orlando Magic",
+                    "nickName": "Magic",
+                    "logo": "https://upload.wikimedia.org/wikipedia/fr/b/bd/Orlando_Magic_logo_2010.png",
+                    "score": {
+                        "points": ""
+                    }
+                },
+                "hTeam": {
+                    "teamId": "24",
+                    "shortName": "NYK",
+                    "fullName": "New York Knicks",
+                    "nickName": "Knicks",
+                    "logo": "https://upload.wikimedia.org/wikipedia/fr/d/dc/NY_Knicks_Logo_2011.png",
+                    "score": {
+                        "points": ""
+                    }
+                }
+            },
+            {
+                "seasonYear": "2020",
+                "league": "standard",
+                "gameId": "7712",
+                "startTimeUTC": "2021-01-18T19:00:00.000Z",
+                "endTimeUTC": "",
+                "arena": "Capital One Arena",
+                "city": "Washington",
+                "country": "USA",
+                "clock": "",
+                "gameDuration": ":",
+                "currentPeriod": "0/4",
+                "halftime": "0",
+                "EndOfPeriod": "0",
+                "seasonStage": "2",
+                "statusShortGame": "1",
+                "statusGame": "Scheduled",
+                "vTeam": {
+                    "teamId": "7",
+                    "shortName": "CLE",
+                    "fullName": "Cleveland Cavaliers",
+                    "nickName": "Cavaliers",
+                    "logo": "",
+                    "score": {
+                        "points": ""
+                    }
+                },
+                "hTeam": {
+                    "teamId": "41",
+                    "shortName": "WAS",
+                    "fullName": "Washington Wizards",
+                    "nickName": "Wizards",
+                    "logo": "https://upload.wikimedia.org/wikipedia/fr/archive/d/d6/20161212034849%21Wizards2015.png",
+                    "score": {
+                        "points": ""
+                    }
+                }
+            },
+            {
+                "seasonYear": "2020",
+                "league": "standard",
+                "gameId": "7713",
+                "startTimeUTC": "2021-01-18T19:30:00.000Z",
+                "endTimeUTC": "",
+                "arena": "State Farm Arena",
+                "city": "Atlanta",
+                "country": "USA",
+                "clock": "",
+                "gameDuration": ":",
+                "currentPeriod": "0/4",
+                "halftime": "0",
+                "EndOfPeriod": "0",
+                "seasonStage": "2",
+                "statusShortGame": "1",
+                "statusGame": "Scheduled",
+                "vTeam": {
+                    "teamId": "22",
+                    "shortName": "MIN",
+                    "fullName": "Minnesota Timberwolves",
+                    "nickName": "Timberwolves",
+                    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d9/Timberwolves_du_Minnesota_logo_2017.png/200px-Timberwolves_du_Minnesota_logo_2017.png",
+                    "score": {
+                        "points": ""
+                    }
+                },
+                "hTeam": {
+                    "teamId": "1",
+                    "shortName": "ATL",
+                    "fullName": "Atlanta Hawks",
+                    "nickName": "Hawks",
+                    "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                    "score": {
+                        "points": ""
+                    }
+                }
+            },
+            {
+                "seasonYear": "2020",
+                "league": "standard",
+                "gameId": "7714",
+                "startTimeUTC": "2021-01-18T20:00:00.000Z",
+                "endTimeUTC": "",
+                "arena": "AmericanAirlines Arena",
+                "city": "Miami",
+                "country": "USA",
+                "clock": "",
+                "gameDuration": ":",
+                "currentPeriod": "0/4",
+                "halftime": "0",
+                "EndOfPeriod": "0",
+                "seasonStage": "2",
+                "statusShortGame": "1",
+                "statusGame": "Scheduled",
+                "vTeam": {
+                    "teamId": "10",
+                    "shortName": "DET",
+                    "fullName": "Detroit Pistons",
+                    "nickName": "Pistons",
+                    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/Detroit_Pistons_logo.svg/1200px-Detroit_Pistons_logo.svg.png",
+                    "score": {
+                        "points": ""
+                    }
+                },
+                "hTeam": {
+                    "teamId": "20",
+                    "shortName": "MIA",
+                    "fullName": "Miami Heat",
+                    "nickName": "Heat",
+                    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1c/Miami_Heat_-_Logo.svg/1200px-Miami_Heat_-_Logo.svg.png",
+                    "score": {
+                        "points": ""
+                    }
+                }
+            },
+            {
+                "seasonYear": "2020",
+                "league": "standard",
+                "gameId": "7715",
+                "startTimeUTC": "2021-01-18T20:00:00.000Z",
+                "endTimeUTC": "",
+                "arena": "Moda Center",
+                "city": "Portland",
+                "country": "USA",
+                "clock": "",
+                "gameDuration": ":",
+                "currentPeriod": "0/4",
+                "halftime": "0",
+                "EndOfPeriod": "0",
+                "seasonStage": "2",
+                "statusShortGame": "1",
+                "statusGame": "Scheduled",
+                "vTeam": {
+                    "teamId": "31",
+                    "shortName": "SAS",
+                    "fullName": "San Antonio Spurs",
+                    "nickName": "Spurs",
+                    "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                    "score": {
+                        "points": ""
+                    }
+                },
+                "hTeam": {
+                    "teamId": "29",
+                    "shortName": "POR",
+                    "fullName": "Portland Trail Blazers",
+                    "nickName": "Trail Blazers",
+                    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Portland_Trail_Blazers_logo.svg/1200px-Portland_Trail_Blazers_logo.svg.png",
+                    "score": {
+                        "points": ""
+                    }
+                }
+            },
+            {
+                "seasonYear": "2020",
+                "league": "standard",
+                "gameId": "7716",
+                "startTimeUTC": "2021-01-18T22:00:00.000Z",
+                "endTimeUTC": "",
+                "arena": "FedExForum",
+                "city": "Memphis",
+                "country": "USA",
+                "clock": "",
+                "gameDuration": ":",
+                "currentPeriod": "0/4",
+                "halftime": "0",
+                "EndOfPeriod": "0",
+                "seasonStage": "2",
+                "statusShortGame": "1",
+                "statusGame": "Scheduled",
+                "vTeam": {
+                    "teamId": "28",
+                    "shortName": "PHX",
+                    "fullName": "Phoenix Suns",
+                    "nickName": "Suns",
+                    "logo": "https://upload.wikimedia.org/wikipedia/fr/5/56/Phoenix_Suns_2013.png",
+                    "score": {
+                        "points": ""
+                    }
+                },
+                "hTeam": {
+                    "teamId": "19",
+                    "shortName": "MEM",
+                    "fullName": "Memphis Grizzlies",
+                    "nickName": "Grizzlies",
+                    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Memphis_Grizzlies.svg/1200px-Memphis_Grizzlies.svg.png",
+                    "score": {
+                        "points": ""
+                    }
+                }
+            }
+        ]
+    }
+}
