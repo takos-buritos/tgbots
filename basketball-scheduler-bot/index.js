@@ -4,11 +4,15 @@ const { getFortune } = require('./apiCalls.js')
 const { calc_total_count, find_user, get_calling, get_good_byes, get_symbol_count } = require('./extFunc.js')
 const config = require('./config.json')
 
-const { session, Telegraf } = require('telegraf')
-const bot = new Telegraf(process.env.TG_TOKEN)
+//const { session, Telegraf } = require('telegraf')
+const { Composer } = require('micro-bot')
+//const bot = new Telegraf(process.env.TG_TOKEN)
+const bot = new Composer()
 
 const CronJob = require('cron').CronJob
 var _cronJob = null
+
+/**GLOBAL OBJECTS TO STORE WORKOUT PARTICIPANTS */
 var participants = []
 var queue = []
 
@@ -25,6 +29,7 @@ const createJob = async (chatid) => {
 }
 
 bot.command('wake_up_neo', async (ctx) => {
+    reinitGlobalCollections()
     if (!_cronJob) _cronJob = await createJob(ctx.chat.id)
     _cronJob.start()
     ctx.reply(`ПОГНАЛИ НАХУЙ!!1`);
@@ -222,4 +227,5 @@ bot.command('menu_test', (ctx) => {
 })
 
 
-bot.launch()
+//bot.launch()
+module.exports = bot
