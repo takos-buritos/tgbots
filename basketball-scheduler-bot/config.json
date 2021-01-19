@@ -1,9 +1,10 @@
 {
-    "rest": {
-        "fortune": "http://yerkee.com/api/fortune",
-        "nba_root": "https://api-nba-v1.p.rapidapi.com",
-        "nba_games_per_date": "/games/date/"
+    "MAX_PARTICIPANTS": 15,
+    "REST": {
+        "FORTUNE": "http://yerkee.com/api/fortune",
+        "NBA_ROOT": "https://api-nba-v1.p.rapidapi.com",
+        "NBA_GAMES_PER_DATE": "/games/date/"
     },
-    
-    "bot_token": "1507106781:AAHn6kBFYaeZIvBEF7QEbpf9obcHgAUHjMo"
+    "CALLINGS": ["mah niggah", "пёс", "нахуй", "пацан", "пидрила", "амиго", "сын шакала", "красавчик", "комрад", "товарищ баскетболист"],
+    "GOOD_BYES": ["Адьос", "Аривидерчи", "Ну и катись отсюдова", "В штанах у тебя минус", "Гудбай", "Си ю некст тайм", "As you фоккен wish", "Куда пошёл? Возьми меня с собой"]
 }
